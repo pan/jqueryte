@@ -14,14 +14,17 @@ and issue `bundle install`
 
 ## Usage
 
-```ruby
+```
     /* in rails application's stylesheets, eg. application.css
      *= require jqueryte
      */
+```
 
+```
     // in rails application's javascript, eg. application.js
     //= require jqueryte
 ```
+
 Then it is ready for use. For how to use this editor itself, please refer to
 [jQuery Text Editor Documentation][2].
 
